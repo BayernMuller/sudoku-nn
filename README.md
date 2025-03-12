@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="assets/logo.svg" width="400"/>
-    <br>
-    <img src='assets/caption.svg'>
+    <img src="assets/logo.svg" width="400">
+    <img src="assets/caption.svg">
 </p>
 
 <span align="center">
