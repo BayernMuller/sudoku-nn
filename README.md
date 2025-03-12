@@ -1,10 +1,16 @@
 <p align="center">
-    <img src="assets/logo.svg" width="400" height="80">
+    <img src="assets/logo.svg" width="400" height="120">
     <img src="assets/caption.svg">
 </p>
 
-<hr>
+<span align="center">
 
-### Overview
+# sudoku-nn
 
-* Sudoku solver using neural network implemented in ***numpy only***.
+Sudoku solver using neural network implemented in ***numpy only***.
+
+</span>
+
+<p align="center">
+    <img src="https://img.shields.io/github/license/bayernmuller/sudoku-nn"/>
+</p>
