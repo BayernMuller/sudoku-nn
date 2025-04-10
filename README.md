@@ -11,7 +11,6 @@
 #
 
 ### Overview
-* Sudoku solver using neural network implemented in ***numpy only***.
 
 ### Run
 
